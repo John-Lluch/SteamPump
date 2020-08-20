@@ -24,23 +24,23 @@ A reinterpretation of the popular Van Broklin steam powered, feed water pump for
 
 This work is licensed under a Creative Commons Attribution version 4.0. Legal terms can be found here: [(https://creativecommons.org/licenses/by/4.0/legalcode)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-###License summary
+**License summary**
 
 The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.
 
-###You are free to:
+**You are free to**
 
 * Share - copy and redistribute the material in any medium or format
 
 * Adapt - remix, transform, and build upon the material for any purpose, even commercially.
 
-###Under the following terms:
+**Under the following terms**
 
 * Attribution - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 * No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-###Notices:
+**Notices**
 
 * You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. 
 
