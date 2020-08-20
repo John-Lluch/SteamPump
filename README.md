@@ -4,7 +4,7 @@ A reinterpretation of the popular Van Broklin steam powered, feed water pump for
 
 ![Image](https://raw.github.com/John-Lluch/SteamPump/master/Illustration01-SectionView.jpg)
 
-![Image](https://raw.github.com/John-Lluch/SteamPump/master/Photo01-Finished Pump.jpg)
+![Image](https://raw.github.com/John-Lluch/SteamPump/master/Photo01-FinishedPump.jpg)
 
 ## NOTE
 
